@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1727989607326
+  login: 1727989598326
+money: '0'
+last-account-name: wagler
+logoutlocation:
+  world: 0bce6e41-28fd-4578-a8de-e5ad165f4722
+  world-name: world
+  x: -5948.6662911351905
+  y: 63.0
+  z: -5052.528613254644
+  yaw: 11.393717765808105
+  pitch: 32.84410858154297
+lastlocation:
+  world: 0bce6e41-28fd-4578-a8de-e5ad165f4722
+  world-name: world
+  x: 175.8321886134185
+  y: 70.0
+  z: 227.2114307068468
+  yaw: 324.1500244140625
+  pitch: -85.80000305175781
